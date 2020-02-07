@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: test-app
+ 
+spring:
+  profiles:
+    active: default
